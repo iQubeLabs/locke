@@ -1,0 +1,108 @@
+/*--------- Social-Links ----------*/
+.Social-Links { margin-top:2px;}
+.iconFacebook{width:40px;height:40px;background: url(../images/skin/socialicons.png)  no-repeat 0 0;display:inline-block; padding:0;margin:0 1px;}
+.iconTwitter{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -42px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconForrst{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -84px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconDribbble{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -126px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconDeviantArt{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -168px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconYouTube{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -210px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconTumblr{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -252px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconLastfm{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -294px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconPicasa{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -336px 0; display:inline-block;padding:0;margin:0 1px;}
+.iconRss{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -378px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconBehance{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -420px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconSkype{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -462px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconLinkedIn{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -546px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconPinterest{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -588px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconGoogle{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -630px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconVimeo{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -672px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconEvernote{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -714px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconStumbleUpon{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -756px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconDropbox{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat 0 -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconSoundCloud{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -42px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconFlicr{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -84px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconBlogger{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -126px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconInstagram{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -168px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconYahoo{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -210px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconGrooveshark{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -252px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconYouTube2{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -294px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconDigg{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -336px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconShareThis{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -378px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconWordPress{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -420px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconKickstarter{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -462px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconBebo{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -504px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconZerply{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -546px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconAmazon{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -588px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconMyspace{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -630px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconWikipedia{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -672px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconTechnorati{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -714px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconAddThis{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -756px -42px;display:inline-block;padding:0;margin:0 1px;}
+.iconDelicious{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat 0 -84px;display:inline-block;padding:0;margin:0 1px;}
+.iconXing{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -42px -84px;display:inline-block;padding:0;margin:0 1px;}
+.iconQuora{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -84px -84px;display:inline-block;padding:0;margin:0 1px;}
+.iconGitHub{width:40px;height:40px;background:url(../images/skin/socialicons.png) no-repeat -126px -84px;display:inline-block;padding:0;margin:0 1px;}
+
+/*--------- Social-Links Hover ----------*/
+a.iconFacebook:hover{background-color:#5d82d1;background-position: 0 -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconTwitter:hover{background-color:#40bff5;background-position: -42px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconForrst:hover{background-color:#45ad76;background-position: -84px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconDribbble:hover{background-color:#6a8a7b;background-position: -126px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconDeviantArt:hover{background-color:#d3180e;background-position: -168px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconYouTube:hover{background-color:#426d9b;background-position: -210px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconTumblr:hover{background-color:#f34320;background-position: -252px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconLastfm:hover{background-color:#9eb5b6;background-position: -294px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconPicasa:hover{background-color:#9eb5b6;background-position: -336px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconRss:hover{background-color:#f8a13b;background-position: -378px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconBehance:hover{background-color:#1879fd;background-position: -420px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconSkype:hover{background-color:#13c1f3;background-position: -462px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconLinkedIn:hover{background-color:#238cc8;background-position: -546px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconPinterest:hover{background-color:#e03037;background-position: -588px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconGoogle:hover{background-color:#eb5e4c;background-position: -630px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconVimeo:hover{background-color:#34c5e9;background-position: -672px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconEvernote:hover{background-color:#9acf4f;background-position: -714px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconStumbleUpon:hover{background-color:#fb582c;background-position: -756px -126px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconDropbox:hover{background-color:#17a3eb;background-position: 0 -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconSoundCloud:hover{background-color:#fe7d2f;background-position: -42px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconFlicr:hover{background-color:#ff48a3;background-position: -84px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconBlogger:hover{background-color:#fe9132;background-position: -126px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconInstagram:hover{background-color:#548bb6;background-position: -168px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconYahoo:hover{background-color:#ab47ac;background-position: -210px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconGrooveshark:hover{background-color:#ee4d40;background-position: -252px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconYouTube2:hover{background-color:#fcaf1a;background-position: -294px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconDigg:hover{background-color:#75788d;background-position: -336px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconShareThis:hover{background-color:#25a774;background-position: -378px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconWordPress:hover{background-color:#2592c3;background-position: -420px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconKickstarter:hover{background-color:#8cd049;background-position: -462px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconBebo:hover{background-color:#ee3849;background-position: -504px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconZerply:hover{background-color:#9bba78;background-position: -546px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconAmazon:hover{background-color:#fb8a2a;background-position: -588px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconMyspace:hover{background-color:#008dde;background-position: -630px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconWikipedia:hover{background-color:#b3b5b8;background-position: -672px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconTechnorati:hover{background-color:#6fcf49;background-position: -714px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconAddThis:hover{background-color:#ff7850;background-position: -756px -168px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconDelicious:hover{background-color:#377bda;background-position: 0 -210px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconXing:hover{background-color:#1a8e8c;background-position: -42px -210px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconQuora:hover{background-color:#e83b21;background-position: -84px -210px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+a.iconGitHub:hover{background-color:#3f91cb;background-position: -126px -210px;-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s;}
+
+/*--------- Social-Links ----------*/
+.iconFacebook2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -8px 0;display:inline-block; padding:0;margin:0 1px;}
+.iconPinterest2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -56.4px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconTwitter2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -104.8px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconGoogle2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -153.2px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconRss2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -201.6px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconVimeo2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -250px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconEvernote2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -298.4px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconDribbble2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -346.8px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconTumblr2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -395.2px 0; display:inline-block;padding:0;margin:0 1px;}
+.iconBehance2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -443.6px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconStumbleUpon2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -492px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconDropbox2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -540.4px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconSoundCloud2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -588.8px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconPicasa2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -637.2px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconLast2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -685.6px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconForrst2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -734px 0; display:inline-block;padding:0;margin:0 1px;}
+.iconFlicr2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -782.4px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconDeviantArt2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -830.8px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconLinkedIn2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -879.2px 0;display:inline-block;padding:0;margin:0 1px;}
+.iconBlogger2{width:43px;height:33px;background:url(../images/skin/socialicons2.png) no-repeat -927.6px 0;display:inline-block;padding:0;margin:0 1px;}
